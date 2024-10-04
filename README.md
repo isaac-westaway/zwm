@@ -5,7 +5,7 @@
 Overview
 =======
 
-**This window manager IS still being worked on, (hence the todo) I just do not have much time right now because im in my final year of schooling**
+**This window manager IS still being worked on, (hence the todo) I just do not have much time right now because im in my final year of schooling (technically)**
 
 Zenith is a tiling window manager written in zig for extensibility and modification, in case you would like to write your own window manager with some niche features.
 
